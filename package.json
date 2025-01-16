@@ -1,0 +1,33 @@
+{
+  "name": "sheriyancoding",
+  "version": "1.0.0",
+  "description": "mongoDatabase",
+  "keywords": [
+    "practice",
+    "for",
+    "backend",
+    "development"
+  ],
+  "homepage": "https://github.com/vijaydelhi/sheriyanCoding#readme",
+  "bugs": {
+    "url": "https://github.com/vijaydelhi/sheriyanCoding/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaydelhi/sheriyanCoding.git"
+  },
+  "license": "ISC",
+  "author": "vijay",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9"
+  }
+}
